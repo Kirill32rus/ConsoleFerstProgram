@@ -23,6 +23,6 @@ public class Main {
         liveInStep = input.nextDouble();
 
         result = liveInStep * STEPS_IN_SPAWN * SPANS_IN_FLOOR * floor;
-        System.out.println("Ваша жизнь увеличилась на: " + result + " сек");
+        System.out.println("Ваша жизнь увеличилась на: " + result+1+1 + " сек");
     }
 }
